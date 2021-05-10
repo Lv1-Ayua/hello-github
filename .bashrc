@@ -22,3 +22,4 @@ PS1="\[\e[93;1m\][\u@\h \W]\[\e[0m\]\[\e[29;7m\]\$\[\e[0m\]"
 # User specific aliases and functions
 
 aaa
+bbb
